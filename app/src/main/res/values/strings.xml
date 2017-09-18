@@ -1,0 +1,371 @@
+<resources>
+    <string name="app_name">+Contabilidade</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="regime_tributario"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+        <h1>REGIME TRIBUTÁRIO</h1>
+        <p>REGIME TRIBUTÁRIO é basicamente um conjunto de leis que tem por objetivo conduzir a empresa em suas obrigações tributárias, e assim indicar quais impostos ela terá de pagar. A escolha do modelo adequado é extremamente importante, pois afetará diretamente no recolhimento dos tributos, o que tem certo impacto na competitividade da empresa no mercado (aumento dos preços), além disso, a opção escolhida deverá permanecer durante todo o ano do calendário.
+        É necessário avaliar características peculiares que possam interferir na escolha do melhor regime, já que alguns deles requer condições especiais.</p>
+
+
+<h1><strong>LUCRO REAL</strong></h1>
+<p>No Lucro Real,&nbsp;o imposto de renda e a contribui&ccedil;&atilde;o social sobre o lucro s&atilde;o determinados a partir do lucro cont&aacute;bil, apurado pela pessoa jur&iacute;dica, acrescido de ajustes (positivos e negativos) requeridos pela legisla&ccedil;&atilde;o fiscal.</p>
+<p>Tamb&eacute;m neste regime o&nbsp;PIS e COFINS&nbsp;s&atilde;o determinados (com exce&ccedil;&otilde;es espec&iacute;ficas) atrav&eacute;s do regime n&atilde;o cumulativo, creditando-se valores das aquisi&ccedil;&otilde;es realizadas de acordo com os par&acirc;metros e limites legais.</p>
+<p>Empresas obrigadas:</p>
+<ul>
+<li>Bancos Comerciais; Bancos de Investimentos; Bancos de Desenvolvimento; Caixas Econ&ocirc;micas; Sociedades de Cr&eacute;dito, Financiamento e Investimento; Sociedades de Cr&eacute;dito imobili&aacute;rio; Sociedades Corretoras de T&iacute;tulos, Valores mobili&aacute;rios e C&acirc;mbio; Cooperativas de Cr&eacute;dito; Empresas de Seguros privados e de Capitaliza&ccedil;&atilde;o; Entidades de Previd&ecirc;ncia Privada.</li>
+<li>Empresas que tiverem lucros, rendimentos ou ganhos de capital vindo do exterior (empresas de exporta&ccedil;&atilde;o e as que fazem presta&ccedil;&atilde;o de servi&ccedil;os no exterior, mas que n&atilde;o utilizam filiais, ag&ecirc;ncias, etc., n&atilde;o s&atilde;o obrigadas.</li>
+</ul>
+
+
+<h1><strong>LUCRO PRESUMIDO</strong></h1>
+<p>O valor do lucro &eacute; determinado atrav&eacute;s de percentuais de presun&ccedil;&atilde;o, sendo este estimado de acordo com a atividade desenvolvida, sendo:</p>
+<ul>
+<li>32&#37; para serviços.</li>
+<li>16&#37; para transporte.</li>
+<li>8&#37; para comércio e indústria.</li>
+</ul>
+<p><strong>&nbsp;</strong><strong>Peculiaridades:</strong></p>
+<ul>
+<li>Limite de at&eacute; $78 milh&otilde;es (receita bruta do ano calend&aacute;rio anterior);</li>
+<li>As empresas optantes por esse regime n&atilde;o podem fazer o aproveitamento do PIS e da COFINS;</li>
+</ul>
+<h1>&nbsp;</h1>
+<h1><strong>SIMPLES NACIONAL</strong></h1>
+<p>O Simples Nacional &eacute; um regime diferenciado, criado pelo governo federal atrav&eacute;s das Lei Complementar 123 de 2005, para facilitar a burocracia tribut&aacute;ria das empresas, pois re&uacute;ne uma s&eacute;rie de tributos em uma &uacute;nica guia de pagamento e torna as obriga&ccedil;&otilde;es mensais facilitadas. No entanto, pode&nbsp; ser usado apenas por microempresas e empresas de pequeno porte, por conta do limite de faturamento, j&aacute; que este n&atilde;o pode ultrapassar $3.600.000,00. Al&eacute;m disso, h&aacute; outros impedimentos para que o empreendedor opte por este regime:</p>
+<ul>
+<li>Empresas que possuam faturamento que exceda a R$ 3,6 milh&otilde;es (ou proporcional para empresas novas) no ano calend&aacute;rio ou no anterior.</li>
+<li>Empresas que possuam um ou mais s&oacute;cios com participa&ccedil;&atilde;o superior a 10% em empresa de Lucro Presumido ou Lucro Real e a soma do faturamento de todas empresas n&atilde;o ultrapasse R$ 3,6 milh&otilde;es;</li>
+<li>Empresas com um dos s&oacute;cios com mais de uma empresa optante pelo Simples (Super Simples) e a soma dos faturamentos de todas suas empresas ultrapassa R$3,6 milh&otilde;es</li>
+<li>Empresas que possuam pessoa jur&iacute;dica&nbsp;(CNPJ)como s&oacute;cio;</li>
+<li>Empresas que participam como s&oacute;cias em outras sociedades;</li>
+<li>Empresas que est&atilde;o em d&eacute;bito com o Instituto Nacional do Seguro Social(INSS), ou com as Fazendas P&uacute;blicas Federal, Estadual ou Municipal, cuja exigibilidade n&atilde;o esteja suspensa;</li>
+<li>Empresas que possuam Filial ou representante de Empresa com sede no exterior;</li>
+<li>Empresas que s&atilde;o: Cooperativas (salvo as de consumo), sociedades por a&ccedil;&otilde;es (S/A), ONGs, bancos, financeiras ou gestoras de cr&eacute;ditos/ativos;</li>
+<li>Empresas que s&atilde;o resultantes ou remanescentes de cis&atilde;o ou qualquer outra forma de desmembramento de pessoa jur&iacute;dica que tenha ocorrido em um dos 5 anos-calend&aacute;rio anteriores</li>
+</ul>
+
+        </body>
+        </html>
+
+]]>
+
+</string>
+
+     <string name="regime_tributario1"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+        <h1>REGIME TRIBUTÁRIO</h1>
+        <p>REGIME TRIBUTÁRIO é basicamente um conjunto de leis que tem por objetivo conduzir a empresa em suas obrigações tributárias, e assim indicar quais impostos ela terá de pagar. A escolha do modelo adequado é extremamente importante, pois afetará diretamente no recolhimento dos tributos, o que tem certo impacto na competitividade da empresa no mercado (aumento dos preços), além disso, a opção escolhida deverá permanecer durante todo o ano do calendário.
+        É necessário avaliar características peculiares que possam interferir na escolha do melhor regime, já que alguns deles requer condições especiais.</p>
+        </body>
+        </html>
+]]>
+</string>
+     <string name="regime_tributario2"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+<h1><strong>LUCRO REAL</strong></h1>
+<p>No Lucro Real,&nbsp;o imposto de renda e a contribui&ccedil;&atilde;o social sobre o lucro s&atilde;o determinados a partir do lucro cont&aacute;bil, apurado pela pessoa jur&iacute;dica, acrescido de ajustes (positivos e negativos) requeridos pela legisla&ccedil;&atilde;o fiscal.</p>
+<p>Tamb&eacute;m neste regime o&nbsp;PIS e COFINS&nbsp;s&atilde;o determinados (com exce&ccedil;&otilde;es espec&iacute;ficas) atrav&eacute;s do regime n&atilde;o cumulativo, creditando-se valores das aquisi&ccedil;&otilde;es realizadas de acordo com os par&acirc;metros e limites legais.</p>
+<p>Empresas obrigadas:</p>
+<ul>
+<li>Bancos Comerciais; Bancos de Investimentos; Bancos de Desenvolvimento; Caixas Econ&ocirc;micas; Sociedades de Cr&eacute;dito, Financiamento e Investimento; Sociedades de Cr&eacute;dito imobili&aacute;rio; Sociedades Corretoras de T&iacute;tulos, Valores mobili&aacute;rios e C&acirc;mbio; Cooperativas de Cr&eacute;dito; Empresas de Seguros privados e de Capitaliza&ccedil;&atilde;o; Entidades de Previd&ecirc;ncia Privada.</li>
+<li>Empresas que tiverem lucros, rendimentos ou ganhos de capital vindo do exterior (empresas de exporta&ccedil;&atilde;o e as que fazem presta&ccedil;&atilde;o de servi&ccedil;os no exterior, mas que n&atilde;o utilizam filiais, ag&ecirc;ncias, etc., n&atilde;o s&atilde;o obrigadas.</li>
+</ul>
+        </body>
+        </html>
+]]>
+</string>
+     <string name="regime_tributario3"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+<h1><strong>LUCRO PRESUMIDO</strong></h1>
+<p>O valor do lucro &eacute; determinado atrav&eacute;s de percentuais de presun&ccedil;&atilde;o, sendo este estimado de acordo com a atividade desenvolvida, sendo:</p>
+<ul>
+<li>32&#37; para serviços.</li>
+<li>16&#37; para transporte.</li>
+<li>8&#37; para comércio e indústria.</li>
+</ul>
+<p><strong>&nbsp;</strong><strong>Peculiaridades:</strong></p>
+<ul>
+<li>Limite de at&eacute; $78 milh&otilde;es (receita bruta do ano calend&aacute;rio anterior);</li>
+<li>As empresas optantes por esse regime n&atilde;o podem fazer o aproveitamento do PIS e da COFINS;</li>
+</ul>
+<h1>&nbsp;</h1>
+<h1><strong>SIMPLES NACIONAL</strong></h1>
+<p>O Simples Nacional &eacute; um regime diferenciado, criado pelo governo federal atrav&eacute;s das Lei Complementar 123 de 2005, para facilitar a burocracia tribut&aacute;ria das empresas, pois re&uacute;ne uma s&eacute;rie de tributos em uma &uacute;nica guia de pagamento e torna as obriga&ccedil;&otilde;es mensais facilitadas. No entanto, pode&nbsp; ser usado apenas por microempresas e empresas de pequeno porte, por conta do limite de faturamento, j&aacute; que este n&atilde;o pode ultrapassar $3.600.000,00. Al&eacute;m disso, h&aacute; outros impedimentos para que o empreendedor opte por este regime:</p>
+<ul>
+<li>Empresas que possuam faturamento que exceda a R$ 3,6 milh&otilde;es (ou proporcional para empresas novas) no ano calend&aacute;rio ou no anterior.</li>
+<li>Empresas que possuam um ou mais s&oacute;cios com participa&ccedil;&atilde;o superior a 10% em empresa de Lucro Presumido ou Lucro Real e a soma do faturamento de todas empresas n&atilde;o ultrapasse R$ 3,6 milh&otilde;es;</li>
+<li>Empresas com um dos s&oacute;cios com mais de uma empresa optante pelo Simples (Super Simples) e a soma dos faturamentos de todas suas empresas ultrapassa R$3,6 milh&otilde;es</li>
+<li>Empresas que possuam pessoa jur&iacute;dica&nbsp;(CNPJ)como s&oacute;cio;</li>
+<li>Empresas que participam como s&oacute;cias em outras sociedades;</li>
+<li>Empresas que est&atilde;o em d&eacute;bito com o Instituto Nacional do Seguro Social(INSS), ou com as Fazendas P&uacute;blicas Federal, Estadual ou Municipal, cuja exigibilidade n&atilde;o esteja suspensa;</li>
+<li>Empresas que possuam Filial ou representante de Empresa com sede no exterior;</li>
+<li>Empresas que s&atilde;o: Cooperativas (salvo as de consumo), sociedades por a&ccedil;&otilde;es (S/A), ONGs, bancos, financeiras ou gestoras de cr&eacute;ditos/ativos;</li>
+<li>Empresas que s&atilde;o resultantes ou remanescentes de cis&atilde;o ou qualquer outra forma de desmembramento de pessoa jur&iacute;dica que tenha ocorrido em um dos 5 anos-calend&aacute;rio anteriores</li>
+</ul>
+
+        </body>
+        </html>
+
+]]>
+
+</string>
+
+     <string name="tipos_juridicos1"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+<h1><strong>TIPOS JUR&Iacute;DICOS</strong></h1>
+<ul>
+<li><strong>MICROEMPREENDEDOR INDIVIDUAL (MEI)</strong></li>
+</ul>
+<p>&Eacute; a pessoa que trabalha por conta pr&oacute;pria e que se legaliza como pequeno empres&aacute;rio. O microempreendedor individual tem um limite de faturamento anual. Atualmente o valor m&aacute;ximo at&eacute; R$ 72.000,00 por ano e n&atilde;o pode ter participa&ccedil;&atilde;o em outra empresa como s&oacute;cio ou titular. O MEI tamb&eacute;m pode ter um empregado contratado que receba o sal&aacute;rio m&iacute;nimo ou o piso da categoria.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>EMPRES&Aacute;RIO INDIVIDUAL&nbsp;</strong></li>
+</ul>
+<p>&Eacute; aquele que exerce em nome pr&oacute;prio uma atividade empresarial. &Eacute; a pessoa f&iacute;sica (natural) titular da empresa. O patrim&ocirc;nio da pessoa natural e o do empres&aacute;rio individual s&atilde;o os mesmos, logo o titular responder&aacute; de forma ilimitada pelas d&iacute;vidas. &Eacute; a pessoa que trabalha no com&eacute;rcio ou com servi&ccedil;os n&atilde;o intelectuais, ou seja, que n&atilde;o dependam de gradua&ccedil;&atilde;o superior para seu desempenho. &Eacute; a antiga Firma Individual, e o seu registro &eacute; realizado na Junta Comercial.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>SOCIEDADE EMPRES&Aacute;RIA LIMITADA&nbsp;</strong></li>
+</ul>
+<p>Sociedade Empres&aacute;ria Ltda.: &eacute; a sociedade que possua dois ou mais s&oacute;cios e que trabalha no com&eacute;rcio ou com servi&ccedil;os n&atilde;o intelectuais.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>SOCIEDADE SIMPLES LIMITADA</strong></li>
+</ul>
+<p>&Eacute; a sociedade que possua dois ou mais s&oacute;cios e que trabalha com atividades de natureza cient&iacute;fica, liter&aacute;ria ou art&iacute;stica (intelectuais).</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>EIRELI </strong></li>
+</ul>
+<p>A empresa individual de responsabilidade limitada (EIRELI) &eacute; aquela constitu&iacute;da por uma &uacute;nica pessoa titular da totalidade do capital social, devidamente integralizado, que n&atilde;o poder&aacute; ser inferior a 100 (cem) vezes o maior sal&aacute;rio-m&iacute;nimo vigente no Pa&iacute;s. O titular n&atilde;o responder&aacute; com seus bens pessoais pelas d&iacute;vidas da empresa.</p>
+<p>A pessoa natural que constituir empresa individual de responsabilidade limitada somente poder&aacute; figurar em uma &uacute;nica empresa dessa modalidade.</p>
+<p>Ao nome empresarial dever&aacute; ser inclu&iacute;do a express&atilde;o &ldquo;EIRELI&rdquo; ap&oacute;s a firma ou a denomina&ccedil;&atilde;o social da empresa individual de responsabilidade limitada.</p>
+<p>A EIRELI tamb&eacute;m poder&aacute; resultar da concentra&ccedil;&atilde;o das quotas de outra modalidade societ&aacute;ria num &uacute;nico s&oacute;cio, independentemente das raz&otilde;es que motivaram tal concentra&ccedil;&atilde;o.</p>
+<p>A Empresa individual de responsabilidade limitada ser&aacute; regulada, no que couber, pelas normas aplic&aacute;veis &agrave;s sociedades limitadas.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>SOCIEDADE LIMITADA&nbsp;</strong></li>
+</ul>
+<p>&Eacute; aquela que realiza atividade empresarial, formada por dois ou mais s&oacute;cios que contribuem com moeda ou bens avali&aacute;veis em dinheiro para forma&ccedil;&atilde;o do capital social. A responsabilidade dos s&oacute;cios &eacute; restrita ao valor do capital social, por&eacute;m respondem solidariamente pela integraliza&ccedil;&atilde;o da totalidade do capital, ou seja, cada s&oacute;cio tem obriga&ccedil;&atilde;o com a sua parte no capital social, no entanto poder&aacute; ser chamado a integralizar as quotas dos s&oacute;cios que deixaram de integraliz&aacute;-las.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>SOCIEDADE AN&Ocirc;NIMA</strong></li>
+</ul>
+<p>Tamb&eacute;m chamada de companhia, &eacute; pessoa jur&iacute;dica de direito privado composta por dois ou mais acionistas, de natureza eminentemente empresarial, independentemente da atividade econ&ocirc;mica desenvolvida por ela (art. 13 da Lei n. 6.404/76), em que o capital social &eacute; dividido em a&ccedil;&otilde;es de igual valor nominal, que s&atilde;o de livre negociabilidade, limitando-se a responsabilidade do acionista ao pre&ccedil;o de emiss&atilde;o das a&ccedil;&otilde;es subscritas ou adquiridas.</p>
+<p>A companhia poder&aacute; ser classificada em aberta ou fechada. O art. 4&ordm; da Lei das Sociedades An&ocirc;nimas as distingue: &ldquo;Para os efeitos desta lei, a companhia &eacute; aberta ou fechada conforme os valores mobili&aacute;rios de sua emiss&atilde;o estejam ou n&atilde;o admitidos &agrave; negocia&ccedil;&atilde;o no mercado de valores mobili&aacute;rios&rdquo;. A aberta &eacute; aquela em que os valores mobili&aacute;rios (a&ccedil;&otilde;es, deb&ecirc;ntures, partes benefici&aacute;rias etc.) s&atilde;o admitidos &agrave; negocia&ccedil;&atilde;o nas bolsas de valores ou mercado de balc&atilde;o, devendo, portanto, ser registrada e ter seus valores mobili&aacute;rios registrados perante a CVM (Comiss&atilde;o de Valores Mobili&aacute;rios), enquanto que a fechada n&atilde;o emite valores mobili&aacute;rios negoci&aacute;veis nesses mercados.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>COOPERATIVA&nbsp;</strong></li>
+</ul>
+<p>&Eacute; sociedade de pessoas, com forma e natureza jur&iacute;dica pr&oacute;pria e, independentemente de seu objeto, a Lei (par&aacute;grafo &uacute;nico, art. 982, CC/ 2002) a classifica como sociedade simples, n&atilde;o sujeita &agrave; fal&ecirc;ncia. &Eacute; constitu&iacute;da para prestar servi&ccedil;os em proveito dos associados (art. 4&ordm; da Lei 5764/76), sem finalidade lucrativa.</p>
+<p>Exige-se, para constitui&ccedil;&atilde;o de uma cooperativa singular, o concurso de associados, pessoas f&iacute;sicas, em n&uacute;mero m&iacute;nimo necess&aacute;rio para compor a administra&ccedil;&atilde;o da sociedade, &oacute;rg&atilde;o de administra&ccedil;&atilde;o e conselho fiscal (inciso II, art. 1094, CC 2002), levando em conta a necessidade de renova&ccedil;&atilde;o desses &oacute;rg&atilde;os.</p>
+<p>&nbsp;Apesar de ser classificada como sociedade simples, o arquivamento dos seus atos deve ser realizado na Junta Comercial, conforme disp&otilde;e a al&iacute;nea &ldquo;a&rdquo;, do inciso II, do art. 32 da Lei 8.934/94</p>
+<p>Cons&oacute;rcio&nbsp;&ndash; &eacute; a reuni&atilde;o de companhias e quaisquer outras sociedades, sob o mesmo controle ou n&atilde;o, com a finalidade de constituir um cons&oacute;rcio para execu&ccedil;&atilde;o de um empreendimento espec&iacute;fico. As companhias ou sociedades que o integram s&atilde;o denominadas de consorciadas.</p>
+<p>O cons&oacute;rcio, constitu&iacute;do para executar determinado empreendimento, n&atilde;o adquire personalidade jur&iacute;dica com o arquivamento do contrato de constitui&ccedil;&atilde;o na Junta Comercial de sua sede, o qual deve ser aprovado pelo &oacute;rg&atilde;o da sociedade competente para autorizar a aliena&ccedil;&atilde;o de bens do ativo n&atilde;o circulante, e a certid&atilde;o do arquivamento do contrato deve ser publicada.</p>
+<p>A fal&ecirc;ncia de uma consorciada n&atilde;o se estende &agrave;s demais, subsistindo o cons&oacute;rcio com as outras contratantes; os cr&eacute;ditos que porventura tiver a falida ser&atilde;o apurados e pagos</p>
+<p>na forma prevista no contrato de cons&oacute;rcio.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>SOCIEDADE EM NOME COLETIVO</strong></li>
+</ul>
+<p>&Eacute; aquela em que todos os s&oacute;cios devem ser, necessariamente, pessoas f&iacute;sicas e respondem solid&aacute;ria e ilimitadamente pelas obriga&ccedil;&otilde;es sociais, entretanto, poder&atilde;o estipular limites de responsabilidade pelas obriga&ccedil;&otilde;es sociais entre si, mas que n&atilde;o ter&atilde;o qualquer efic&aacute;cia perante credores.</p>
+<p>A administra&ccedil;&atilde;o da sociedade cabe exclusivamente aos s&oacute;cios, sendo vedada a nomea&ccedil;&atilde;o de terceiros para tal fun&ccedil;&atilde;o.</p>
+<p>A sociedade em nome coletivo deve adotar firma social, n&atilde;o sendo permitido o uso de denomina&ccedil;&atilde;o social.</p>
+<ul>
+<li><strong>SOCIEDADE EM COMANDITA SIMPLES</strong></li>
+</ul>
+<p>&Eacute; aquela constitu&iacute;da por s&oacute;cios que possuem responsabilidade ilimitada e solid&aacute;ria pelas obriga&ccedil;&otilde;es sociais e s&oacute;cios que respondem apenas pela integraliza&ccedil;&atilde;o de suas respectivas cotas, sendo estes denominados de comandit&aacute;rios e aqueles de comanditados.</p>
+<p>A sociedade deve ser administrada por s&oacute;cio comanditado. Na aus&ecirc;ncia de s&oacute;cio que detenha a qualidade de comanditado, os s&oacute;cios comandit&aacute;rios dever&atilde;o nomear um administrador provis&oacute;rio, que n&atilde;o assumir&aacute; a condi&ccedil;&atilde;o de s&oacute;cio, para realizar os atos de administra&ccedil;&atilde;o, durante o prazo de cento e oitenta dias. O s&oacute;cio comandit&aacute;rio que praticar atos de gest&atilde;o e fizer uso da firma social estar&aacute; sujeito &agrave;s responsabilidades de s&oacute;cio comandit&aacute;rio, ou seja, solid&aacute;ria e ilimitadamente.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>SOCIEDADE EM COMANDITA POR A&Ccedil;&Otilde;ES&nbsp;</strong></li>
+</ul>
+<p>&Eacute; aquela em que o capital social &eacute; dividido em a&ccedil;&otilde;es, sendo que os acionistas respondem apenas pelo valor delas subscritas ou adquiridas, mas tendo os administradores (diretores) responsabilidade subsidi&aacute;ria, ilimitada e solid&aacute;ria, em raz&atilde;o das obriga&ccedil;&otilde;es sociais.</p>
+<p>A representa&ccedil;&atilde;o da sociedade se d&aacute; pelos diretores, que dever&atilde;o ser necessariamente acionistas. O diretor &eacute; nomeado por tempo indeterminado no ato constitutivo e a sua responsabilidade &eacute; subsidi&aacute;ria e ilimitada frente &agrave;s obriga&ccedil;&otilde;es da sociedade.</p>
+<p>O regime jur&iacute;dico da sociedade em comandita por a&ccedil;&otilde;es est&aacute; disciplinado nos artigos 280 a 284 da Lei 6.404/76 e 1.090 a 1.092 do C&oacute;digo Civil de 2002.</p>
+<p>&nbsp;</p>
+<p><strong><br /> </strong></p>
+<p>&nbsp;</p>
+
+        </body>
+        </html>
+
+]]>
+
+</string>
+
+     <string name="abertura_empresas1"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+<h1><strong>ABERTURA DE EMPRESAS</strong></h1>
+<p>&nbsp;</p>
+<p>Existem dois processos de abertura:<br /> - tr&acirc;mite especial do Microempreendedor Individual - MEI;<br /> - comum aplic&aacute;vel &agrave;s demais, inclusive micro e pequenas empresas.</p>
+
+        </body>
+        </html>
+
+]]>
+
+</string>
+     <string name="abertura_empresas2"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+<ul>
+<li><strong>Para registro e legaliza&ccedil;&atilde;o do Microempreendedor Individual (MEI)</strong></li>
+</ul>
+<p>O Portal do Empreendedor () disp&otilde;e de amplo conte&uacute;do informativo abrangendo orienta&ccedil;&otilde;es sobre as etapas da inscri&ccedil;&atilde;o, requisitos, atividades permitidas, obriga&ccedil;&otilde;es e responsabilidades, inclusive manual do processo eletr&ocirc;nico.</p>
+<p>No site est&atilde;o dispon&iacute;veis os instrumentos informatizados como o registro empresarial (Departamento de Registro Empresarial e Integra&ccedil;&atilde;o - DREI e Junta Comercial), a inscri&ccedil;&atilde;o no Cadastro Nacional da Pessoa Jur&iacute;dica - CNPJ (Receita Federal do Brasil) e o licenciamento provis&oacute;rio (ades&atilde;o ao Termo de Ci&ecirc;ncia e Responsabilidade com Efeito de Alvar&aacute; de Licen&ccedil;a e Funcionamento Provis&oacute;rio).</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Servi&ccedil;os de Apoio &agrave; Formaliza&ccedil;&atilde;o do MEI</strong></li>
+</ul>
+<p>O empreendedor que se candidata a MEI conta com aux&iacute;lio na formaliza&ccedil;&atilde;o e aplica&ccedil;&atilde;o das normas resultantes. Os MEIs possuem tratamento ainda mais favorecido e simplificado do que o dirigido &agrave;s microempresas como a dispensa da emiss&atilde;o de notas fiscais, escritura&ccedil;&atilde;o cont&aacute;bil e apura&ccedil;&atilde;o dos impostos; a cria&ccedil;&atilde;o de um tr&acirc;mite especial de registro e legaliza&ccedil;&atilde;o, al&eacute;m de obriga&ccedil;&otilde;es acess&oacute;rias bastante simplificadas</p>
+<p>Esse apoio deve ser promovido obrigatoriamente pelos escrit&oacute;rios de servi&ccedil;os cont&aacute;beis optantes pelo Simples Nacional, individualmente ou por meio de suas entidades representativas de classe. &nbsp;</p>
+<p>O aux&iacute;lio tamb&eacute;m pode ser obtido pelos &oacute;rg&atilde;os e entidades dos entes federados, pelo Servi&ccedil;o Brasileiro de Apoio &agrave;s Micro e Pequenas Empresas (Sebrae), por outras entidades e prepostos.</p>
+
+        </body>
+        </html>
+
+]]>
+
+</string>
+
+     <string name="decore1"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+
+<h1><strong>DECORE</strong></h1>
+<p>DECORE &ndash; Declara&ccedil;&atilde;o de Comprova&ccedil;&atilde;o de Rendimentos &eacute; um documento cont&aacute;bil que tem como objetivo provar e comprovar a informa&ccedil;&atilde;o a respeito da percep&ccedil;&atilde;o dos rendimentos das pessoas f&iacute;sicas.</p>
+<p>Este documento pode ser utilizado para negocia&ccedil;&otilde;es de cunho financeiro, como por exemplo &nbsp;loca&ccedil;&atilde;o de im&oacute;vel, compra de um ve&iacute;culo ou de outro bem qualquer para qualquer cidad&atilde;o.O mesmo deve ser elaborado somente por um profissional cont&aacute;bil que possua sua inscri&ccedil;&atilde;o e autoriza&ccedil;&atilde;o do CRC Conselho Regional de Contabilidade.</p>
+
+
+        </body>
+        </html>
+
+]]>
+
+</string>
+     <string name="decore2"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+<h1><strong>DOCUMENTOS QUE FUNDAMENTAM A EMISS&Atilde;O DA DECORE</strong></h1>
+<p>A declara&ccedil;&atilde;o de renda deve ser fundamentada nas informa&ccedil;&otilde;es do Livro Caixa/Livro Di&aacute;rio ou nos documentos definidos no anexo II da Resolu&ccedil;&atilde;o CFC (Conselho Federal de Contabilidade) n&ordm; 1364/11. A DECORE pode ser emitida com base somente em informa&ccedil;&otilde;es salariais, no caso de empregados do cliente do contador, e com os documentos constantes no item 12 do anexo j&aacute; citado.</p>
+
+        </body>
+        </html>
+
+]]>
+
+</string>
+     <string name="decore3"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+<p><strong>Livro Caixa</strong></p>
+<ul>
+<li>Honor&aacute;rios;</li>
+<li>Atividades rurais, extrativistas, etc.;</li>
+<li>Presta&ccedil;&atilde;o de servi&ccedil;os diversos;</li>
+<li>Comiss&otilde;es;</li>
+<li>Alugu&eacute;is/arrendamentos.</li>
+</ul>
+<p><strong>Livro Di&aacute;rio</strong></p>
+<ul>
+<li>Retirada de&nbsp;pr&oacute;-labore;</li>
+<li>Distribui&ccedil;&atilde;o de lucros;</li>
+<li>Atividades rurais, extrativistas e outras.</li>
+</ul>
+<p><strong>Demonstra&ccedil;&atilde;o de distribui&ccedil;&atilde;o</strong></p>
+<ul>
+<li>Distribui&ccedil;&atilde;o de lucros.</li>
+</ul>
+<p><strong>DARF do IRPF (Carn&ecirc; Le&atilde;o) com recolhimento regular</strong></p>
+<ul>
+<li>Honor&aacute;rios;</li>
+<li>Presta&ccedil;&atilde;o de servi&ccedil;os diversos;</li>
+<li>Comiss&otilde;es;</li>
+<li>Alugu&eacute;is/arrendamentos.</li>
+</ul>
+<p><strong>RPA ou Recibo com o contrato de presta&ccedil;&atilde;o de servi&ccedil;os</strong></p>
+<ul>
+<li>Honor&aacute;rios;</li>
+<li>Presta&ccedil;&atilde;o de servi&ccedil;os/comiss&otilde;es.</li>
+</ul>
+<p><strong>Outros</strong></p>
+<ul>
+<li>Nota de produtor; recibo e contrato de arrendamento; recibo e contrato de armazenagem; recibo e contrato de presta&ccedil;&atilde;o de servi&ccedil;o de lavra&ccedil;&atilde;o, safra, pesqueira, etc. (atividades rurais, extrativistas, etc.);</li>
+<li>Escritura&ccedil;&atilde;o do livro ISSQN (presta&ccedil;&atilde;o de servi&ccedil;os/comiss&otilde;es);</li>
+<li>Contrato (alugu&eacute;is/arrendamento);</li>
+<li>Contrato, escritura (venda de bens);</li>
+<li>Extrato banc&aacute;rio (rendimentos);</li>
+<li>Documento da entidade pagadora (vencimento de funcion&aacute;rio p&uacute;blico, pensionista ou aposentado).</li>
+</ul>
+
+        </body>
+        </html>
+
+]]>
+
+</string>
+
+     <string name="dpto_pessoal1"><![CDATA[
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+
+<h1><strong>DEPARTAMENTO PESSOAL</strong></h1>
+<p><strong>F&Eacute;RIAS</strong></p>
+<p>&Eacute; o per&iacute;odo de descanso, que deve ser dado ao empregado ap&oacute;s 12 meses de servi&ccedil;o. O per&iacute;odo de f&eacute;rias pode ser no m&iacute;nimo de 20 a 30 dias, podendo &ldquo;vender&rdquo; 10 dias e tirar somente 20 dias de f&eacute;rias. O trabalhador n&atilde;o pode ficar mais de 2 anos sem tirar as f&eacute;rias caso isso ocorra o empregador pagar&aacute; em dobro o sal&aacute;rio, se o funcion&aacute;rio tiver 33 faltas sem justificativa perde o direito as f&eacute;rias.</p>
+<p>&nbsp;</p>
+<p><strong>HORA EXTRA</strong></p>
+<p>Quando o funcion&aacute;rio excede seu hor&aacute;rio de trabalho, recebendo um acr&eacute;scimo de 50&#37; a 100&#37; a mais ou a realiza&ccedil;&atilde;o do banco de horas.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>INSALUBRIDADE</strong></p>
+<p>&Eacute; quando o empregado est&aacute; exposto algum risco de sa&uacute;de no hor&aacute;rio do trabalho,&nbsp; exemplo: Pessoas que trabalham exposto a ru&iacute;dos cont&iacute;nuos, radia&ccedil;&atilde;o, agentes qu&iacute;micos, entre outros.</p>
+<p>Assim ter&aacute; um acr&eacute;scimo em seu sal&aacute;rio de:</p>
+<ul>
+<li>10&#37; para grau m&iacute;nimo;</li>
+<li>20&#37; para grau m&eacute;dio;</li>
+<li>40&#37; para grau m&aacute;ximo.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>PERICULOSIDADE</strong></p>
+<p>&Eacute; quando o empregado est&aacute; exposto algum risco de vida no hor&aacute;rio de trabalho, exemplo: Eletricista, transportador de l&iacute;quidos inflam&aacute;veis, entre outros.</p>
+<p>Assim ter&aacute; um acr&eacute;scimo em seu sal&aacute;rio de 30&#37;.</p>
+        </body>
+        </html>
+
+]]>
+
+</string>
+</resources>

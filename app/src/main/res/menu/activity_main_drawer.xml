@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_regime_trib"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Regimes Tributários" />
+        <item
+            android:id="@+id/nav_tipo_juridico"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Tipos Jurídicos" />
+        <item
+            android:id="@+id/nav_abertura_empresas"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Abertura de Empresas" />
+        <item
+            android:id="@+id/nav_decore"
+            android:icon="@drawable/ic_menu_send"
+            android:title="DECORE" />
+        <item
+            android:id="@+id/nav_dpto_pessoal"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Departamento Pessoal" />
+    </group>
+
+
+
+</menu>
